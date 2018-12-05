@@ -1,5 +1,5 @@
 <?php
-//hello git
+
 // $arr = array(1,5,6,8,9);
 //
 // foreach ($_SERVER as $key => $a)
